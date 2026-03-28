@@ -44,6 +44,3 @@ music-emotion-detection/
 * Emotion graphs
 * Model performance table
 * Confusion matrices
-
-
-Your Name
